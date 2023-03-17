@@ -1,1 +1,1 @@
-# -EquationCalculator
+# EquationCalculator
